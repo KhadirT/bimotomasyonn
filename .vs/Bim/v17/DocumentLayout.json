@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kadir\\source\\repos\\Bim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|C:\\Users\\Kadir\\source\\repos\\Bim\\bim\\depoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\depoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|C:\\Users\\Kadir\\source\\repos\\Bim\\bim\\depoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\depoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|c:\\users\\kadir\\source\\repos\\bim\\bim\\depoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\depoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|C:\\Users\\Kadir\\source\\repos\\Bim\\bim\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|C:\\Users\\Kadir\\source\\repos\\Bim\\bim\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|C:\\Users\\Kadir\\source\\repos\\Bim\\bim\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|C:\\Users\\Kadir\\source\\repos\\Bim\\bim\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63EFBF2F-8849-4CE8-AA6C-761A9503BAB3}|Bim\\Bim.csproj|solutionrelative:bim\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\DepoForm.cs",
+              "RelativeDocumentMoniker": "Bim\\DepoForm.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\DepoForm.cs",
+              "RelativeToolTip": "Bim\\DepoForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwE8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:11:56.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\DepoForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bim\\DepoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\DepoForm.Designer.cs",
+              "RelativeToolTip": "Bim\\DepoForm.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAYwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:11:45.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepoForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\DepoForm.cs",
+              "RelativeDocumentMoniker": "Bim\\DepoForm.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\DepoForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bim\\DepoForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:31:41.006Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bim\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Bim\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:08:39.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoneticiForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\YoneticiForm.cs",
+              "RelativeDocumentMoniker": "Bim\\YoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\YoneticiForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bim\\YoneticiForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:32:14.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Bim\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\LoginForm.cs",
+              "RelativeToolTip": "Bim\\LoginForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAlwDYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:50:40.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Bim\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Kadir\\source\\repos\\Bim\\Bim\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Bim\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:50:05.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

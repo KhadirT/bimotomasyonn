@@ -1,0 +1,11 @@
+C:\Users\Kadir\source\repos\Bim\Bim\bin\Debug\Bim.exe.config
+C:\Users\Kadir\source\repos\Bim\Bim\bin\Debug\Bim.exe
+C:\Users\Kadir\source\repos\Bim\Bim\bin\Debug\Bim.pdb
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\Bim.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\Bim.Properties.Resources.resources
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\Bim.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\Bim.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\Bim.exe
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\Bim.pdb
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\BimOtomasyon.LoginForm.resources
+C:\Users\Kadir\source\repos\Bim\Bim\obj\Debug\BimOtomasyon.DepoForm.resources
